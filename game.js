@@ -18,3 +18,6 @@ function keyup(key) {
 function mouseup() {
 
 };
+function StartGame(){
+    window.location.href = "game.html";
+}
